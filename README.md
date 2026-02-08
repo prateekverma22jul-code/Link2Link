@@ -5,7 +5,7 @@
 [![Owner](https://img.shields.io/badge/Owner-Verified-blue)]()
 
 ## 📖 About
-Link2Link is a web application designed to facilitate efficient digital linking. This platform is developed, owned, and maintained by **[Your Name/Username]**.
+Link2Link is a web application designed to facilitate efficient digital linking. This platform is developed, owned, and maintained by **Our team**.
 
 ## 🔒 Source Code
 **Please Note:** The source code for Link2Link is **proprietary and closed-source**. This repository serves as a public landing page and documentation hub for the project.
